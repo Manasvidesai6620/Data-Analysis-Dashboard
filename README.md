@@ -67,4 +67,10 @@ The dashboard is created using a traffic violation dataset containing fields suc
 •	Data Visualization using Different Chart Types
 •	Easy-to-understand traffic compliance analysis
 
+##Dashboard Preview:
+
+
+
+
+
 
