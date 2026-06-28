@@ -57,6 +57,10 @@ The dashboard is created using a traffic violation dataset containing fields suc
 4.	Use the Year slicer to filter the dashboard.
 5.	Analyze KPIs, charts, and graphs for traffic violation insights.
 
+##Dashboard Interaction:
+
+
+
 ##Key Highlights:
 
 •	Interactive Excel Dashboard
