@@ -73,6 +73,13 @@ https://github.com/Manasvidesai6620/Data-Analysis-Dashboard/blob/main/aratiexcel
 ##Dashboard Preview:
 https://github.com/Manasvidesai6620/Data-Analysis-Dashboard/blob/main/Screenshot%20(212).png
 
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/e1124452-bec2-4805-bf5f-b68378ce75d0" />
+
+
+
+
+
+
 
 
 
