@@ -68,8 +68,7 @@ The dashboard is created using a traffic violation dataset containing fields suc
 •	Easy-to-understand traffic compliance analysis
 
 ##Dashboard Preview:
-
-
+https://github.com/Manasvidesai6620/Data-Analysis-Dashboard/blob/main/Screenshot%20(212).png
 
 
 
