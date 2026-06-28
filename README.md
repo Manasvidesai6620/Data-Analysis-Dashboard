@@ -75,6 +75,8 @@ https://github.com/Manasvidesai6620/Data-Analysis-Dashboard/blob/main/Screenshot
 
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/e1124452-bec2-4805-bf5f-b68378ce75d0" />
 
+
+
 ##Conclusion:
 
 The Traffic Violation and Compliance Dashboard demonstrates how Microsoft Excel can be used to transform raw traffic data into meaningful insights through interactive visualizations. By combining KPIs, Pivot Tables, charts, and slicers, the dashboard enables efficient monitoring of traffic violations, compliance status, and resolution trends. This project highlights data analysis, dashboard design, and reporting skills, making it a valuable tool for data-driven decision-making and an excellent addition to a data analytics portfolio.
